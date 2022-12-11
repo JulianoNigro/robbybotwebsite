@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html  >
+<head>
+  <!-- Site made with Mobirise Website Builder v5.6.13, https://mobirise.com -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Mobirise v5.6.13, mobirise.com">
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:image:src" content="">
+  <meta property="og:image" content="">
+  <meta name="twitter:title" content="Comandos">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/71b82970e9565e8dda98aaffca103056-96x96.png" type="image/x-icon">
+  <meta name="description" content="Olá! Me chamo Robby Bot! (Mas você pode me chamar somente de Robby!) E sou um simples bot para o Discord com diversas funções incríves! Acessando este link, você terá acesso a minha lista de comandos!">
+  
+  
+  <title>Comandos</title>
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
+  <link rel="stylesheet" href="assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
+  <link rel="stylesheet" href="assets/dropdown/css/style.css">
+  <link rel="stylesheet" href="assets/socicon/css/styles.css">
+  <link rel="stylesheet" href="assets/theme/css/style.css">
+  <link rel="preload" href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap"></noscript>
+  <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css"><link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  
+  
+  
+  
+</head>
+<body>
+  
+  <section data-bs-version="5.1" class="menu cid-s48OLK6784" once="menu" id="menu1-p">
+    
+    <nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg">
+        <div class="container">
+            <div class="navbar-brand">
+                <span class="navbar-logo">
+                    
+                        <a href="index.html"><img src="assets/images/71b82970e9565e8dda98aaffca103056-96x96.png" alt="Robby Bot" style="height: 3.8rem;"></a>
+                    
+                </span>
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-white text-primary display-7" href="index.html">Robby Bot</a></span>
+            </div>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <div class="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav nav-dropdown nav-right" data-app-modern-menu="true"><li class="nav-item"><a class="nav-link link text-white text-primary display-4" href="commands"><span class="mbrib-code mbr-iconfont mbr-iconfont-btn"></span>Comandos</a></li><li class="nav-item"><a class="nav-link link text-white text-primary display-4" href="premium"><span class="mobi-mbri mobi-mbri-cash mbr-iconfont mbr-iconfont-btn"></span>Premium</a></li><li class="nav-item"><a class="nav-link link text-white text-primary display-4" href="store"><span class="mobi-mbri mobi-mbri-cart-add mbr-iconfont mbr-iconfont-btn"></span>Loja</a></li><li class="nav-item"><a class="nav-link link text-white text-primary display-4" href="support"><span class="mobi-mbri mobi-mbri-phone mbr-iconfont mbr-iconfont-btn"></span>Suporte</a></li>
+                    <li class="nav-item"><a class="nav-link link text-white text-primary display-4" href="guidelines"><span class="mobi-mbri mobi-mbri-protect mbr-iconfont mbr-iconfont-btn"></span>Diretrizes</a></li><li class="nav-item"><a class="nav-link link text-white text-primary display-4" href="https://discord.com/api/oauth2/authorize?client_id=957308921457041480&redirect_uri=https%3A%2F%2Frobbybot.ml&response_type=code&scope=applications.commands%20identify%20email"><span class="mobi-mbri mobi-mbri-login mbr-iconfont mbr-iconfont-btn"></span>Login</a></li></ul>
+                <div class="icons-menu">
+                    <a class="iconfont-wrapper" href="https://discord.gg/ZGw63Eq95z" target="_blank">
+                        <span class="p-2 mbr-iconfont socicon-discord socicon"></span>
+                    </a>
+                    <a class="iconfont-wrapper" href="https://github.com/JulianoNigro" target="_blank">
+                        <span class="p-2 mbr-iconfont mobi-mbri-github mobi-mbri"></span>
+                    </a>
+                    
+                    
+                </div>
+                
+            </div>
+        </div>
+    </nav>
+
+</section>
+
+<section data-bs-version="5.1" class="content5 cid-tokBwJJiYE" id="content5-12">
+    
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-12 col-lg-8">
+                
+                <h4 class="mbr-section-subtitle mbr-fonts-style mb-4 display-5">
+                    Argumentos</h4>
+                <p class="mbr-text mbr-fonts-style display-7">
+                    Meu prefixo padrão é - , todos os meus comandos começam com ele, como `-help` ! Você pode trocar ele a qualquer momento utilizando `-prefix &lt;prefixo&gt;`. &lt;Argumento&gt; - Argumento obrigatório e (Argumento) - Argumento Opcional.<br>Eu estou migrando meus comandos para slash ( / ), nem todos estarão ainda disponíveis, para acessar eles, coloque uma / na caixa de texto que eles aparecerão!&nbsp;</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="tabs content18 cid-tokELAcqCX" id="tabs1-15">
+
+    
+
+    
+    
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+            <div class="col-12 col-md-7">
+                <h3 class="mbr-section-title mb-0 mbr-fonts-style display-2"><strong>Comandos</strong></h3>
+                
+            </div>
+        </div>
+        <div class="row justify-content-center mt-4">
+            <div class="col-12 col-md-7">
+                <ul class="nav nav-tabs mb-4" role="tablist">
+                    <li class="nav-item first mbr-fonts-style"><a class="nav-link mbr-fonts-style show active display-7" role="tab" data-toggle="tab" data-bs-toggle="tab" href="#tabs1-15_tab0" aria-selected="true"><strong>Utilidade</strong></a></li>
+                    <li class="nav-item"><a class="nav-link mbr-fonts-style active display-7" role="tab" data-toggle="tab" data-bs-toggle="tab" href="#tabs1-15_tab1" aria-selected="true"><strong>Imagens</strong></a></li>
+                    <li class="nav-item"><a class="nav-link mbr-fonts-style active display-7" role="tab" data-toggle="tab" data-bs-toggle="tab" href="#tabs1-15_tab2" aria-selected="true"><strong>Minecraft</strong></a></li>
+                    <li class="nav-item"><a class="nav-link mbr-fonts-style active display-7" role="tab" data-toggle="tab" data-bs-toggle="tab" href="#tabs1-15_tab3" aria-selected="true"><strong>Moderação</strong></a></li>
+                    <li class="nav-item"><a class="nav-link mbr-fonts-style active display-7" role="tab" data-toggle="tab" data-bs-toggle="tab" href="#tabs1-15_tab4" aria-selected="true"><strong>Entretenimento</strong></a></li>
+                    <li class="nav-item"><a class="nav-link mbr-fonts-style display-7" role="tab" data-toggle="tab" data-bs-toggle="tab" href="#tabs1-15_tab5" aria-selected="false"><strong>Sociais&nbsp;</strong></a></li>
+                </ul>
+                <div class="tab-content">
+                    <div id="tab1" class="tab-pane in active" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p class="mbr-text mbr-fonts-style display-5"><strong>base64 </strong>- Codifica ou decodifica um texto para base 64.<br><em><strong>Exemplos:</strong></em> `base64 (codificar) O Robby é meu amigo!`<br>`base64 &lt;decodificar&gt; &lt;TyBSb2JieSDDqSBtZXUgYW1pZ28h&gt;`<br><br><strong>binário </strong>- Codifica um texto para binário.<br><strong><em>Exemplos:</em></strong> binary &lt;Robby&gt;<br><br><strong>morse</strong> - converte um texto para morse<br><em><strong>Exemplos:</strong></em> morse &lt;Robby&gt;<br><br><strong>qr</strong> - cria um qrcode a partir de uma imagem ou texto.<br><strong><em>Exemplo:</em></strong> qrcode &lt;texto&gt; ou &lt;link&gt;<br><br><strong>calcular</strong> - Calcula uma expressão aritmétrica.<br><strong>Exemplos: </strong>calc &lt;5 + 2&gt;<br>calc 5 * 2<br>calc 5/2<br>calc sqrt 81<br>calc cos 34<br>calc tan 60<br>calc sin 32<br><br><strong>traduzir</strong> - traduz um texto para um idioma específico.<br><strong>Exemplo: </strong>traduzir &lt;pt&gt; &lt;texto&gt;<br><br><strong>clima: </strong>Informa o clima de uma cidade.<br><strong>Exemplos: </strong>clima &lt;Curitiba&gt;<br><br><strong>colorinfo</strong> - Mostra informações de uma cor a partir do código hex.<br><strong><em>Exemplo:</em></strong> hex &lt;ffd69&gt;<br><br><strong>letra</strong> - Busca a letra de uma música.<br><strong><em>Exemplo:</em></strong> lyrics &lt;All of Me&gt;<br><br><strong>encurtar</strong> - Encurte um link longo!<br><strong><em>Exemplo: </em></strong>encurtar &lt;https://robbybot.ml/commands&gt;<br><br><strong>steam </strong>- Pesquisa uma Aplicação na Steam. (Comando desativado)<br><strong><em>Exemplo:</em></strong> steam Sonic Frontiers</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="tab2" class="tab-pane" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p class="mbr-text mbr-fonts-style display-5"><strong>
+                                    ata </strong>- Faça um meme do ata da mônica!<br><br><strong>cebolinhaata </strong>- Faça um meme ata do cebolinha!<br><br><strong>cepodemadeira</strong>&nbsp;- Crie um meme do Gugu gaiteiro cepo de madeira!<br><br><strong>bolsonarotweet - </strong>Crie um tweet falso do bolsonaro!<br><br><strong>bolsoplaca</strong> - O que o bolsonaro está dizendo em sua placa?<br><br><strong>gay </strong>- Aplique um overlay de arco íris em uma imagem!<br><br><strong>bolsonaro - </strong>O que o Bolsonaro está assistindo em sua tv?<br><br><strong>trump</strong> - Escreva um texto na placa do Donald Trump!<br><br><strong>drake - </strong>Crie um meme do Drake com texto ou imagens!<br>Exemplo: drake &lt;texto1&gt; | &lt;texto2&gt; / drake @Robby<br><br><strong>firstwords - </strong>As primeiras palavras do bebê!<br><br><strong>laranjo - </strong>Crie um meme do Laranjo!<br><br><strong>lisa</strong> - Crie um meme da lisa com um texto no quadro!<br><br><strong>invert</strong> - Inverta as cores de uma imagem!<br><br><strong>distort</strong> - Distorça uma imagem!<br><br><strong>greyscale</strong> - Deixe uma imagem com tons de cinza!<br><br><strong>mirror</strong> - Espelha uma imagem!<br><br><strong>pixelate</strong> - Deixe uma imagem pixelizada!<br><br><strong>deus</strong> - Coloque um usuário como pesquisa ''deus'' no google!<br><br><strong>perfect</strong> - Quando alguém diz, nada é perfeito.<br><br><strong>petpet</strong> - Faça cafuné em uma imagem!<br><br><strong>bobfire</strong> - Jogue uma imagem na fogueira!i<br><br><strong>pepesign </strong>-<strong>&nbsp;</strong>Escreva um texto para o pepe dizer em sua placa!<br><br><strong>sepia</strong> - Aplique um efeito sepia a uma imagem!<br><br><strong>voadora</strong> - Dê uma voadora em um usuário!<br><br><strong>triggered</strong> - Deixe alguém triggered!<br><br><strong>stonks</strong> - Crie um meme do stonks com a foto de usuário de um usuário!<br><br><strong>terremoto</strong> - Faça um terremoto com o avatar de um usuário!<br><br><strong>thomas</strong> - Faça um usuário virar o thomas o trem!<br><br><strong>delete</strong> - Coloque um usuário como lixo no estilo do Windows!<br><br><strong>glitch</strong> - Aplique um efeito de glitch em uma imagem!<br><br><strong>jail</strong> - Aplique um overlay de prisão em um usuário!<br><br><strong>floorislava</strong><em> - </em>O chão é ... ?<br><br><strong>discord-ping</strong> - Faça uma edição de imagem com um ping falso do discord sobre uma imagem!<br><br><strong>circle</strong> - Recorte uma imagem em um formato circular!<br><br><strong>blur</strong> - Cria um gif com uma animação de uma imagem desfocando.&nbsp;<br><br><strong>blurple</strong> - Aplique um efeito do discord blurple em uma imagem!<br><br><strong>blurple2 </strong>- Aplique um efeito do novo discord blurple em uma imagem!<br><br><strong>gay</strong> - Aplique um overlay de arco-íris em uma imagem!<br><br><strong>youtube </strong>- Crie um comentário falso no youtube!<br><br><br><br><br><br><br></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="tab3" class="tab-pane" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p class="mbr-text mbr-fonts-style display-5"><strong>mcavatar</strong> - Veja um avatar de uma conta no minecraft Java Edition!<br><br><strong>mcskin</strong> - Veja uma skin de uma conta no minecraft Java Edition!<br><br><strong>mchead</strong> - Veja a cabeça de uma conta no minecraft Java Edition!<br><br><strong>mcbody </strong>- Veja o corpo de uma skin no minecraft Java Edition!<br><br><strong>mcprogresso</strong>&nbsp;- Crie uma conquista do Minecraft!<br><br><strong>mcsign </strong>- Crie uma placa do minecraft com um texto!</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="tab4" class="tab-pane" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p class="mbr-text mbr-fonts-style display-5">
+                                    addemoji - adiciona um emoji ao servidor a partir de um link.<br>Exemplo: addemoji &lt;nome&gt; &lt;url&gt;<br><br>ban - Bane um usuário do servidor com um motivo.<br>Exemplo: ban &lt;usuário&gt; (motivo)<br><br>kick - Expulsa um usuário do servidor.<br>Exemplo: kick &lt;@julianoo&gt; (motivo)<br><br>clear - Apaga uma quantidade específica de mensagens em um canal.<br>Exemplo: clear &lt;35&gt; (@Robby)<br><br>lock - Bloqueia um canal.<br>Exemplo: lock &lt;#chat&gt;<br><br>unlock - Desbloqueia um canal.<br>Exemplo: unlock &lt;#chat&gt;<br><br>prefix - Altera o prefixo que o Robby irá responder no servidor.<br><strong>Exemplo:</strong> prefix &lt;r!&gt; - <em>Irá alterar o prefixo de - para r!, então, se utilizarmos r!help, o Robby irá responder com este novo prefixo.</em><br><br><em>s</em>ay - Manda uma mensagem no servidor pelo Robby.<br><strong>Exemplo:</strong> say O Robby é muito legal!<br><br><strong>slowmode</strong> - Altera o modo lento no canal em que o usuário está.<br><strong>Exemplo:</strong> slowmode 5s<br><br><em>Em breve, mais comandos...</em><br><br><br><br><br></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="tab5" class="tab-pane" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p class="mbr-text mbr-fonts-style display-5"><strong>8ball</strong> - Faça uma pergunta para a bola mágica!<br><strong>Exemplo:</strong> eightball &lt;O Brasil vai ganhar o hexa nesse ano?&gt;<br><br><strong>akinator</strong> - Jogue akinator pelo Discord!<br><br><strong>coinflip</strong> - Cara ou coroa?&nbsp;<br><br><strong>ascii</strong> - Crie um texto com Emojis!<br><strong>Exemplo:</strong> emojify &lt;O Robby é meu amigo! &gt;<br><br><strong>Joke</strong> - Veja uma piada!<br><br><strong>roll</strong> - Role um dado!<br><strong>Exemplo:</strong> roll (32)<br><br><strong>ship - </strong>Veja se um casal vai dar certo, ou não!<br><strong><em>Exemplo</em>: </strong>ship &lt;@Robby&gt; &lt;@julianoo&gt;<br><br><strong>vaporwave: </strong>Crie um texto no estilo v a p o r o n d a !<br><strong><em>Exemplo:</em></strong> vaporonda &lt;Robby&gt;<br><br><strong>clapify - Crie um texto no estilo&nbsp;</strong>👏 palmas&nbsp;👏 !<br>Exemplo: clapify &lt;Me chamo Robby!&gt;</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="tab6" class="tab-pane" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p class="mbr-text mbr-fonts-style display-5"><strong>perfil </strong>- Veja o seu perfil global!<br><strong><em>Exemplo</em>: </strong>profile (@Robby)<br><br><strong>sobremim</strong> - Altere o seu texto de perfil!<br><strong><em>Exemplo:</em></strong> aboutme &lt;Me chamo Robby!&gt;<br><br><strong>store</strong> - Acesse a lojinha do Robby! (Você pode acessar ela também pelo meu website!)</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="tabs content18 cid-tokFQkXBQJ" id="tabs1-17">
+
+    
+
+    
+    
+    <div class="container">
+        
+        <div class="row justify-content-center mt-4">
+            <div class="col-12 col-md-8">
+                <ul class="nav nav-tabs mb-4" role="tablist">
+                    <li class="nav-item first mbr-fonts-style"><a class="nav-link mbr-fonts-style show active display-7" role="tab" data-toggle="tab" data-bs-toggle="tab" href="#tabs1-17_tab0" aria-selected="false"><strong>Animais</strong></a></li>
+                    <li class="nav-item"><a class="nav-link mbr-fonts-style active display-7" role="tab" data-toggle="tab" data-bs-toggle="tab" href="#tabs1-17_tab1" aria-selected="true"><strong>Discord</strong></a></li>
+                    <li class="nav-item"><a class="nav-link mbr-fonts-style active display-7" role="tab" data-toggle="tab" data-bs-toggle="tab" href="#tabs1-17_tab2" aria-selected="true"><strong>Roleplay</strong></a></li>
+                    
+                    
+                    
+                </ul>
+                <div class="tab-content">
+                    <div id="tab1" class="tab-pane in active" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p class="mbr-text mbr-fonts-style display-5"><strong>dog</strong> - Veja fotos de cachorros!<br><br>cat - Veja fotos de gatos!<br><br>panda - Veja fotos de pandas!&nbsp;<br><br>bird - Veja fotos de pássaros!<br></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="tab2" class="tab-pane" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p class="mbr-text mbr-fonts-style display-5"><strong>
+                                    avatar</strong> - Veja o avatar de um usuário!<br><em><strong>Exemplo:</strong></em> avatar (@Robby)<br><br><strong>servericon</strong> - Veja o ícone do servidor!<br><br><strong>emojiinfo</strong> - Veja informações de um emoji!<br><strong><em>Exemplo:</em></strong> emojiinfo&nbsp;&lt;:Wumpus_Wizard:810548890767851620&gt;<br><br><strong>emoji </strong>- Veja um emoji de perto!<br><strong><em>Exemplo:</em></strong> emoji &lt;:Wumpus_Wizard:810548890767851620&gt;<br><br><strong>botinfo</strong> - Veja Informações principais do Robby!<br><br><strong>userinfo</strong> - Veja informações de um usuário!<br><em><strong>Exemplo:</strong></em> userinfo (@Robby)<br><br><strong>invite </strong>- Me convide para o seu servidor e entre em meu servidor de suporte!<br><br><strong>ping</strong> - Veja o meu ping em millisegundos!<br> </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="tab3" class="tab-pane" role="tabpanel">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <p class="mbr-text mbr-fonts-style display-5"><strong>kiss</strong> - Beije um usuário!<br><strong><em>Exemplo:</em></strong> kiss &lt;@julianoo&gt;<br><br><strong>slap</strong> - Dê um tapa em um usuário!<br><strong><em>Exemplo: </em></strong>slap &lt;@Robby&gt;<br><br><strong>hug</strong> - Dê um abraço em um usuário!<br><em><strong>Exemplo:</strong></em> hug &lt;@Robby&gt;<br></p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="header18 cid-tolQaRyNGB" id="header18-1i">
+
+    
+
+    
+    
+
+    <div class="align-center container">
+        <div class="row justify-content-center">
+            <div class="col-12 col-lg-5">
+                
+                
+                
+                <div class="mbr-section-btn mt-3"><a class="btn btn-primary display-4" href="https://discord.com/api/oauth2/authorize?client_id=957308921457041480&permissions=8&scope=bot">Adicione o Robby em seu servidor!</a></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section data-bs-version="5.1" class="footer1 cid-toktYWN2WY" once="footers" id="footer1-u">
+
+    
+
+    
+    
+    <div class="container">
+        <div class="row mbr-white">
+            <div class="col-12 col-md-6 col-lg-3">
+                <h5 class="mbr-section-subtitle mbr-fonts-style mb-2 display-7"><strong>Suporte</strong></h5>
+                <ul class="list mbr-fonts-style display-4">
+                    <li class="mbr-text item-wrap"><a href="https://discord.gg/ZGw63Eq95z" class="text-primary">Servidor de suporte</a></li><li class="mbr-text item-wrap"><br></li>
+                    <li class="mbr-text item-wrap"><br></li>
+                </ul>
+            </div>
+            <div class="col-12 col-md-6 col-lg-3">
+                <h5 class="mbr-section-subtitle mbr-fonts-style mb-2 display-7">
+                    <strong>Jurídico</strong></h5>
+                <ul class="list mbr-fonts-style display-4">
+
+                    <li class="mbr-text item-wrap"><a href="guidelines.html" class="text-primary">Termos de Uso</a></li><a href="guidelines.html" class="text-primary">
+                    </a><li class="mbr-text item-wrap"><a href="guidelines.html" class="text-primary">Diretrizes da Comunidade</a></li>
+                    <li class="mbr-text item-wrap"><br></li>
+                </ul>
+            </div>
+            <div class="col-12 col-md-6 col-lg-3">
+                <h5 class="mbr-section-subtitle mbr-fonts-style mb-2 display-7">Adicione o Robby em seu servidor!</h5>
+                <ul class="list mbr-fonts-style display-4">
+                    <li class="mbr-text item-wrap"><a href="https://discord.com/api/oauth2/authorize?client_id=957308921457041480&permissions=8&scope=bot" class="text-primary">Clique aqui</a></li>
+                </ul>
+            </div>
+            <div class="col-12 col-md-6 col-lg-3">
+                <h5 class="mbr-section-subtitle mbr-fonts-style mb-2 display-7">
+                    <strong>Sobre</strong></h5>
+                <p class="mbr-text mbr-fonts-style mb-4 display-4">
+                    O Robby é um bot para o Discord com comandos de diversão, moderação, utilidades, sociais, etc!<br><br><a href="premium.html" class="text-primary">Doe para me Ajudar a ficar online!</a></p>
+                
+                
+            </div>
+            <div class="col-12 mt-4">
+                <p class="mbr-text mb-0 mbr-fonts-style copyright align-center display-7">
+                    © Copyright RobbyBot 2022 - Todos direitos reservados<br>O Robby não tem nenhum tipo de affiliação com a Discord Inc.</p>
+            </div>
+        </div>
+    </div>
+</section><section class="display-7" style="padding: 0;align-items: center;justify-content: center;flex-wrap: wrap;    align-content: center;display: flex;position: relative;height: 4rem;"><a href="https://mobiri.se/2913724" style="flex: 1 1;height: 4rem;position: absolute;width: 100%;z-index: 1;"><img alt="" style="height: 4rem;" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="></a><p style="margin: 0;text-align: center;" class="display-7"> &#8204;</p><a style="z-index:1" href="https://mobirise.com/html-builder.html"></a></section><script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>  <script src="assets/web/assets/cookies-alert-plugin/cookies-alert-core.js"></script>  <script src="assets/web/assets/cookies-alert-plugin/cookies-alert-script.js"></script>  <script src="assets/smoothscroll/smooth-scroll.js"></script>  <script src="assets/ytplayer/index.js"></script>  <script src="assets/dropdown/js/navbar-dropdown.js"></script>  <script src="assets/mbr-tabs/mbr-tabs.js"></script>  <script src="assets/theme/js/script.js"></script>  
+  
+  
+<input name="cookieData" type="hidden" data-cookie-customDialogSelector='null' data-cookie-colorText='#424a4d' data-cookie-colorBg='rgba(234, 239, 241, 0.99)' data-cookie-textButton='Concordo' data-cookie-colorButton='' data-cookie-colorLink='#424a4d' data-cookie-underlineLink='true' data-cookie-text="Nós utilizamos cookies para você ter a melhor experiência. Antes de Utilizar o Robby, leia as <a href='privacy.html'>diretrizes da Comunidade</a>.">
+  </body>
+</html>
